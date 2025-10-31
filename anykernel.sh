@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=DioneKernel for gale/gust by Štěpán Zapletal
+kernel.string=DioneKernel for gale/gust by stepik
 do.devicecheck=1
 do.modules=0
 do.systemless=1
